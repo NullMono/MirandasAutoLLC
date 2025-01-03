@@ -1,0 +1,23 @@
+###
+CAR SALE LISTS
+Search System
+Create template for car listings
+###
+
+Create about us page
+1. Logo
+2. Text
+3. Map view
+
+Create Contact page
+1. Navigation
+2. Info
+3. Map View
+
+Create Review page
+1 Navigation
+2. Widget
+3. Widget
+
+Add cars:
+2006 Toyota RAV4
